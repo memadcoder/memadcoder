@@ -2,9 +2,9 @@
 
 ## I'm Software Engineer!
 
-- 🔭 I’m currently working on React Native Project!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on Nodejs, React, Angular projects.
+- 🌱 I’m currently learning everything  possible🤣
+- 🥅 2022 Goals: Contribute more to Open Source projects, learn more about block chain technology.
 
 ### Connect with me:
 
